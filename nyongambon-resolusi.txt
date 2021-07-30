@@ -1,3 +1,4 @@
 nyongambon resolusi
 - konsisten untuk belajar programming
 - perdalam html, js, css, java dan python
+- membuat apps
